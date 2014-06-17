@@ -1,4 +1,4 @@
-* compile dylib:
-`R CMD SHLIB mandel.c
+### How to Crunch Numbers on GPU
+#### for fun and profit (with CUDA, C and R)
 
 
